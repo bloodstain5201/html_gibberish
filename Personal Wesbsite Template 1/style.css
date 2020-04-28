@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(wp4286410.jpg) no-repeat;
+    background-size: cover;
+}
+
+.box{
+    width: 450px;
+    background-color: rgba(0,0,0,0.5);
+    padding: 40px;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.box-img{
+    width: 300px;
+    border-radius: 50%;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 200;
+    letter-spacing: 4px;
+}
+
+h3,h5{
+    font-size: 20px;
+    font-weight: 50;
+}
+
+h5{
+    text-align: justify;
+}
+.fav ul{
+    margin: 0;
+    padding: 0;
+}
+.fav li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+    text-align: center;
+    font-size: 70px;
+}
+
+.fav li i{
+    color: aliceblue;
+    letter-spacing: 10px;
+}
+
